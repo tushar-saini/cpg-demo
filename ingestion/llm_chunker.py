@@ -74,7 +74,7 @@ def llm_chunking(infile: str, outfile: str):
 
     # Write back to the file
     with open(outfile, 'w') as file:
-        json.dump(data_json, file, indent=4)
+        json.dump(data_json, file, encoding="utf-8", indent=4)
 
 
 # Main function takes inpath and outpath

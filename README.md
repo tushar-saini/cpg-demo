@@ -149,7 +149,7 @@ Used for:
 * Streaming responses
 * Caching layer
 * Fine-grained evaluation metrics
-* Validating more test cases
+* Expand validation by incorporating a broader set of multilingual test cases
 
 ---
 

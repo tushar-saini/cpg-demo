@@ -23,7 +23,13 @@ TEST_CASES = [
         "question": "How do upgrade my account from preium to VIP?",
         "country": "A",
         "language": "en"
+    },
+    {
+        "question": "La clôture du compte prend effet immédiatement.",
+        "country": "C",
+        "language": "fr_CA"
     }
+    
 ]
 
 
