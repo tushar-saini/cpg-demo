@@ -18,15 +18,20 @@ if __name__ == "__main__":
         "--inpath",
         type=str,
         default='./data/data.json',
-        required=True,
         help="Path to input JSON file"
     )
 
     parser.add_argument(
         "--outpath",
         type=str,
-        required=True,
         default='./data/llm_chunks.json',
+        help="Path to output JSON file"
+    )
+
+    parser.add_argument(
+        "--skipchunking",
+        type=bool,
+        default=False,
         help="Path to output JSON file"
     )
 
@@ -41,7 +46,12 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    llm_chunking(args.inpath, args.outpath)
+    if not args.skipchunking:
+        print('Chunking using LLM process....')
+        llm_chunking(args.inpath, args.outpath)
+    else:
+        print('Skipping chunking process....')
+        
     vectorize_chunks(args.outpath, './chroma_db')
 
     # After all the setup is done, we can start the server

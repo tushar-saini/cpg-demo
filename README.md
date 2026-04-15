@@ -95,12 +95,22 @@ Create `.env` file:
 
 ```
 OPENAI_API_KEY=your_key_here
+LANGFUSE_PUBLIC_KEY=your_key_here
+LANGFUSE_SECRET_KEY=your_key_here
+LANGFUSE_HOST=your_key_here
 ```
 
 ### 3. Single setup file
+Make sure, you have a running instance of Ollama locally serving `qwen3:1.7b` at port 11434
 
 ```bash
 uv run setup.py
+```
+
+If Ollama is not running, you can skip the LLM chunking process and use the existing processed documents.
+
+```bash
+uv run setup.py --skipchunking True
 ```
 
 ### 4. Re running the server after the initial setup
