@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a multi-tenant, multilingual Retrieval-Augmented Generation (RAG) system for a B2B retail platform. It allows users to ask natural language questions and receive grounded answers with ~~verifiable citations~~.
+This project implements a multi-tenant, multilingual Retrieval-Augmented Generation (RAG) system for a B2B retail platform. It allows users to ask natural language questions and receive grounded answers with verifiable citations.
 
 The system enforces strict country and language isolation, ensuring no cross-tenant data leakage.
 
@@ -10,7 +10,7 @@ The system enforces strict country and language isolation, ensuring no cross-ten
 
 ### High-Level Flow
 
-User Query → Query Validation → Language Check → Retrieval based on Country and Language → Further Filtering → Answer Generation → Citation Extraction → ~~Validation~~ → Response
+User Query → Query Validation → Language Check → Retrieval based on Country and Language → Further Filtering → Answer Generation → Citation Extraction → Validation → Response
 
 ---
 
@@ -39,7 +39,7 @@ Pipeline includes:
 * Relevance filtering
 * Answer generation (LLM)
 * Citation extraction (with excerpts)
-* ~~Citation validation~~ Currently not working (debugging)
+* Citation validation
 * Retry loop on failure
 
 ### 4. API Layer
@@ -69,10 +69,13 @@ POST /ask
 
 ```json
 {
-  "answer": "...",
-  "citations": [...],
-  "is_valid": true,
-  "latency_ms": 120.5
+    "answer": "...",
+    "language_used": "PENDING: TO DO", 
+    "citations": [...],
+    "trace": {
+        "latency_ms": 100.0,
+        "model": "model_name"
+    }
 }
 ```
 
@@ -118,6 +121,8 @@ This tests:
 
 * Retrieval correctness
 * Answer grounding
+* Citation validity
+
 ---
 
 ## Design Decisions
@@ -126,7 +131,7 @@ This tests:
 
 Separate ChromaDB collections per country-language pair to prevent cross-tenant leakage.
 
-### ~~Citation Enforcement~~ Issue: debugging
+### Citation Enforcement
 
 Answers are validated against retrieved documents using both structural and LLM-based checks.
 

@@ -36,7 +36,8 @@ def main():
         state = {
             "question": question,
             "country": "A",
-            "language": "en"
+            "language": "en",
+            "retry_count": 0 
         }
 
         result = graph.invoke(state)

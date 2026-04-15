@@ -15,8 +15,13 @@ def route_language(state):
     return "unsupported" if state.get("unsupported") else "supported"
 
 def check_valid(state):
-    return "retry" if not state.get("is_valid", False) else "end"
+    if state.get("is_valid"):
+        return "end"
 
+    if state.get("retry_count", 0) >= 2:
+        return "end"
+
+    return "retry"
 
 def build_graph(llm):
     graph = StateGraph(GraphState)
@@ -29,7 +34,7 @@ def build_graph(llm):
     graph.add_node("filter", filter_relevant_docs)
     graph.add_node("generate", lambda s: generate_answer(s, llm))
     graph.add_node("citations", extract_citations)
-    graph.add_node("validate_citations", validate_citations)
+    graph.add_node("validate_citations", lambda s: validate_citations(s, llm))
 
     # Flow
     graph.set_entry_point("validate")
