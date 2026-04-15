@@ -12,22 +12,26 @@ TEST_CASES = [
     {
         "question": "What is return policy?",
         "country": "A",
-        "language": "en"
+        "language": "en",
+        "retry_count": 0 
     },
     {
         "question": "What is return policy?",
         "country": "B",
-        "language": "en"
+        "language": "en",
+        "retry_count": 0 
     },
     {
         "question": "How do upgrade my account from preium to VIP?",
         "country": "A",
-        "language": "en"
+        "language": "en",
+        "retry_count": 0 
     },
     {
         "question": "La clôture du compte prend effet immédiatement.",
         "country": "C",
-        "language": "fr_CA"
+        "language": "fr_CA",
+        "retry_count": 0 
     }
     
 ]

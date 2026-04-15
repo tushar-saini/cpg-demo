@@ -18,3 +18,6 @@ class GraphState(TypedDict):
 
     # --- Validation ---
     is_valid: bool
+
+    #  --- Retry Attempt ---
+    retry_count: int  

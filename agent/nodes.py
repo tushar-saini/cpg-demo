@@ -100,6 +100,8 @@ def generate_answer(state: GraphState, llm):
 
     context = "\n".join([d["text"] for d in docs])
 
+    retry_count = state.get("retry_count", 0)
+
     prompt = f"""
         You are a strict assistant.
 
@@ -133,7 +135,8 @@ def generate_answer(state: GraphState, llm):
 
     return {
         **state,
-        "answer": answer
+        "answer": answer,
+        "retry_count": retry_count 
     }
 
 def extract_citations(state):
@@ -159,7 +162,80 @@ def extract_citations(state):
         "citations": citations
     }
 
-def validate_citations(state: GraphState):
-    
+def validate_citations(state, llm):
+    """
+    Validates that:
+    1. Citations exist
+    2. Citations belong to retrieved documents
+    3. Answer is grounded in context (LLM-based check)
+    """
 
-    return {**state, "is_valid": True}
+    answer = state.get("answer", "")
+    docs = state.get("filtered_docs", [])
+    citations = state.get("citations", [])
+
+    # -----------------------------
+    # Step 1: Basic sanity checks
+    # -----------------------------
+    if not answer or not docs:
+        return {**state, "is_valid": False, "retry_count": state.get("retry_count", 0) + 1}
+
+    # -----------------------------
+    # Step 2: Citation presence check
+    # -----------------------------
+    if not citations:
+        return {**state, "is_valid": False, "retry_count": state.get("retry_count", 0) + 1}
+
+    # -----------------------------
+    # Step 3: Build context
+    # -----------------------------
+    context = "\n\n".join([
+        f"[{d['metadata']['content_id']}] {d['text']}"
+        for d in docs
+    ])
+
+    # -----------------------------
+    # Step 4: LLM grounding check
+    # -----------------------------
+    prompt = f"""
+        You are a strict evaluator.
+
+        Answer:
+        {answer}
+
+        Context:
+        {context}
+
+        Task:
+        - Verify if the answer is fully supported by the context.
+        - Every claim in the answer must be grounded in the context.
+        - If any part is unsupported or hallucinated, mark INVALID.
+
+        Respond ONLY with:
+        VALID or INVALID
+    """
+
+    try:
+        response = llm.invoke(prompt)
+        verdict = response.content.strip().upper()
+
+        is_valid = verdict == "VALID"
+
+    except Exception:
+        # fail-safe: mark invalid if LLM check fails
+        is_valid = False
+
+    # -----------------------------
+    # Step 6: Return updated state
+    # -----------------------------
+    if is_valid:
+        return {
+            **state,
+            "is_valid": is_valid
+        }
+    else:
+        return {
+            **state,
+            "is_valid": is_valid,
+            "retry_count": state.get("retry_count", 0) + 1
+        }

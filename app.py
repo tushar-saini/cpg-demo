@@ -3,7 +3,7 @@ from pydantic import BaseModel
 
 from agent.graph import build_graph
 from langchain_openai import ChatOpenAI
-
+from langfuse.langchain import CallbackHandler
 
 from dotenv import load_dotenv
 import os
@@ -12,8 +12,13 @@ import time
 load_dotenv()  # loads variables from .env
 
 api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("LANGFUSE_PUBLIC_KEY")
+api_key = os.getenv("LANGFUSE_SECRET_KEY")
+api_key = os.getenv("LANGFUSE_HOST")
 
-MODEL_NAME = 'gpt-4o-mini'
+langfuse_handler = CallbackHandler()
+
+MODEL_NAME = 'gpt-5.4'
 
 # -----------------------
 # Request Schema
@@ -60,10 +65,13 @@ def ask_question(request: QueryRequest):
         state = {
             "question": request.question,
             "country": request.country,
-            "language": request.language
+            "language": request.language,
+            "retry_count": 0 
         }
 
-        result = graph.invoke(state)
+        # Run the graph
+        config = {"callbacks": [langfuse_handler]}
+        result = graph.invoke(state, config=config)
         if type(result.get("answer") ) == str:
             answer = result.get("answer")
         else:
