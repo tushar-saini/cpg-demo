@@ -1,0 +1,1195 @@
+[
+    {
+        "content_id": "a_tc_en_v2",
+        "country": "A",
+        "language": "en",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 2.0,
+        "title": "Terms of Service",
+        "updated_at": "2025-09-15T10:00:00Z",
+        "body": "Welcome. By registering as a business customer you agree to these terms. You must be 18 or older and a registered business owner in Country A. Orders are processed Monday through Saturday; Sundays and public holidays are excluded. Payment is due on delivery; accepted methods are cash, UPI, and pre-authorized bank transfer. Returns are permitted within 48 hours of delivery for defective or incorrect items only. Perishable goods cannot be returned once accepted. You may close your account at any time by contacting support; outstanding balances must be settled before closure.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Registration and Terms",
+                "content": "Welcome. By registering as a business customer you agree to these terms. You must be 18 or older and a registered business owner in Country A."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Order Processing Schedule",
+                "content": "Orders are processed Monday through Saturday; Sundays and public holidays are excluded."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Payment Methods",
+                "content": "Payment is due on delivery; accepted methods are cash, UPI, and pre-authorized bank transfer."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Return Policy",
+                "content": "Returns are permitted within 48 hours of delivery for defective or incorrect items only. Perishable goods cannot be returned once accepted."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Account Closure",
+                "content": "You may close your account at any time by contacting support; outstanding balances must be settled before closure."
+            }
+        ]
+    },
+    {
+        "content_id": "a_tc_hi_v2",
+        "country": "A",
+        "language": "hi",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 2.0,
+        "title": "\u0938\u0947\u0935\u093e \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902",
+        "updated_at": "2025-09-15T10:00:00Z",
+        "body": "\u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948\u0964 \u090f\u0915 \u0935\u094d\u092f\u093e\u092a\u093e\u0930 \u0917\u094d\u0930\u093e\u0939\u0915 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u092a\u0902\u091c\u0940\u0915\u0930\u0923 \u0915\u0930\u0915\u0947 \u0906\u092a \u0907\u0928 \u0936\u0930\u094d\u0924\u094b\u0902 \u0938\u0947 \u0938\u0939\u092e\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964 \u0906\u092a\u0915\u0940 \u0909\u092e\u094d\u0930 18 \u0935\u0930\u094d\u0937 \u092f\u093e \u0909\u0938\u0938\u0947 \u0905\u0927\u093f\u0915 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u0914\u0930 \u0906\u092a \u0926\u0947\u0936 A \u092e\u0947\u0902 \u092a\u0902\u091c\u0940\u0915\u0943\u0924 \u0935\u094d\u092f\u093e\u092a\u093e\u0930 \u0915\u0947 \u092e\u093e\u0932\u093f\u0915 \u0939\u094b\u0928\u0947 \u091a\u093e\u0939\u093f\u090f\u0964 \u0911\u0930\u094d\u0921\u0930 \u0938\u094b\u092e\u0935\u093e\u0930 \u0938\u0947 \u0936\u0928\u093f\u0935\u093e\u0930 \u0924\u0915 \u0938\u0902\u0938\u093e\u0927\u093f\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964 \u092d\u0941\u0917\u0924\u093e\u0928 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u092a\u0930 \u0926\u0947\u092f \u0939\u0948; \u0928\u0915\u0926, UPI, \u0914\u0930 \u092a\u0942\u0930\u094d\u0935-\u0905\u0928\u0941\u092e\u094b\u0926\u093f\u0924 \u092c\u0948\u0902\u0915 \u0939\u0938\u094d\u0924\u093e\u0902\u0924\u0930\u0923 \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0930\u093f\u091f\u0930\u094d\u0928 \u0915\u0947\u0935\u0932 \u0926\u094b\u0937\u092a\u0942\u0930\u094d\u0923 \u092f\u093e \u0917\u0932\u0924 \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 48 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 \u0905\u0928\u0941\u092e\u0924 \u0939\u0948\u0964",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Introduction and Agreement",
+                "content": "\u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948\u0964 \u090f\u0915 \u0935\u094d\u092f\u093e\u092a\u093e\u0930 \u0917\u094d\u0930\u093e\u0939\u0915 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u092a\u0902\u091c\u0940\u0915\u0930\u0923 \u0915\u0930\u0915\u0947 \u0906\u092a \u0907\u0928 \u0936\u0930\u094d\u0924\u094b\u0902 \u0938\u0947 \u0938\u0939\u092e\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964"
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Customer Requirements",
+                "content": "\u0906\u092a\u0915\u0940 \u0909\u092e\u094d\u0930 18 \u0935\u0930\u094d\u0937 \u092f\u093e \u0909\u0938\u0938\u0947 \u0905\u0927\u093f\u0915 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u0914\u0930 \u0906\u092a \u0926\u0947\u0936 A \u092e\u0947\u0902 \u092a\u0902\u091c\u0940\u0915\u0943\u0924 \u0935\u094d\u092f\u093e\u092a\u093e\u0930 \u0915\u0947 \u092e\u093e\u0932\u093f\u0915 \u0939\u094b\u0928\u0947 \u091a\u093e\u0939\u093f\u090f\u0964"
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Order Availability",
+                "content": "\u0911\u0930\u094d\u0921\u0930 \u0938\u094b\u092e\u0935\u093e\u0930 \u0938\u0947 \u0936\u0928\u093f\u0935\u093e\u0930 \u0924\u0915 \u0938\u0902\u0938\u093e\u0927\u093f\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964"
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Payment Methods",
+                "content": "\u092d\u0941\u0917\u0924\u093e\u0928 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u092a\u0930 \u0926\u0947\u092f \u0939\u0948; \u0928\u0915\u0926, UPI, \u0914\u0930 \u092a\u0942\u0930\u094d\u0935-\u0905\u0928\u0941\u092e\u094b\u0926\u093f\u0924 \u092c\u0948\u0902\u0915 \u0939\u0938\u094d\u0924\u093e\u0902\u0924\u0930\u0923 \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964"
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Return Policy",
+                "content": "\u0930\u093f\u091f\u0930\u094d\u0928 \u0915\u0947\u0935\u0932 \u0926\u094b\u0937\u092a\u0942\u0930\u094d\u0923 \u092f\u093e \u0917\u0932\u0924 \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 48 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 \u0905\u0928\u0941\u092e\u0924 \u0939\u0948\u0964"
+            }
+        ]
+    },
+    {
+        "content_id": "a_pp_en_v1",
+        "country": "A",
+        "language": "en",
+        "type": "PRIVACY_POLICY",
+        "version": 1.5,
+        "title": "Privacy Policy",
+        "updated_at": "2025-08-01T00:00:00Z",
+        "body": "We collect business name, contact information, order history, and device identifiers. Data is stored in Country A data centers and is not shared outside the platform without your consent. You may request a copy of your data or request deletion by contacting support. Data retention after account closure is 90 days, after which all personal data is anonymized or deleted.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection and Storage Policy",
+                "content": "We collect business name, contact information, order history, and device identifiers. Data is stored in Country A data centers and is not shared outside the platform without your consent."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "User Rights and Data Requests",
+                "content": "You may request a copy of your data or request deletion by contacting support."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Data Retention and Anonymization",
+                "content": "Data retention after account closure is 90 days, after which all personal data is anonymized or deleted."
+            }
+        ]
+    },
+    {
+        "content_id": "a_pp_hi_v1",
+        "country": "A",
+        "language": "hi",
+        "type": "PRIVACY_POLICY",
+        "version": 1.5,
+        "title": "\u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0928\u0940\u0924\u093f",
+        "updated_at": "2025-08-01T00:00:00Z",
+        "body": "\u0939\u092e \u0935\u094d\u092f\u0935\u0938\u093e\u092f \u0915\u093e \u0928\u093e\u092e, \u0938\u0902\u092a\u0930\u094d\u0915 \u091c\u093e\u0928\u0915\u093e\u0930\u0940, \u0911\u0930\u094d\u0921\u0930 \u0907\u0924\u093f\u0939\u093e\u0938, \u0914\u0930 \u0921\u093f\u0935\u093e\u0907\u0938 \u092a\u0939\u091a\u093e\u0928\u0915\u0930\u094d\u0924\u093e \u090f\u0915\u0924\u094d\u0930 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0921\u0947\u091f\u093e \u0926\u0947\u0936 A \u0915\u0947 \u0921\u0947\u091f\u093e \u0915\u0947\u0902\u0926\u094d\u0930\u094b\u0902 \u092e\u0947\u0902 \u0938\u0902\u0917\u094d\u0930\u0939\u0940\u0924 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0906\u092a \u0938\u092e\u0930\u094d\u0925\u0928 \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0915\u0947 \u0905\u092a\u0928\u0947 \u0921\u0947\u091f\u093e \u0915\u0940 \u092a\u094d\u0930\u0924\u093f\u0932\u093f\u092a\u093f \u092f\u093e \u0939\u091f\u093e\u0928\u0947 \u0915\u093e \u0905\u0928\u0941\u0930\u094b\u0927 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0916\u093e\u0924\u093e \u092c\u0902\u0926 \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0921\u0947\u091f\u093e \u092a\u094d\u0930\u0924\u093f\u0927\u093e\u0930\u0923 90 \u0926\u093f\u0928 \u0939\u0948\u0964",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection and Storage",
+                "content": "\u0939\u092e \u0935\u094d\u092f\u0935\u0938\u093e\u092f \u0915\u093e \u0928\u093e\u092e, \u0938\u0902\u092a\u0930\u094d\u0915 \u091c\u093e\u0928\u0915\u093e\u0930\u0940, \u0911\u0930\u094d\u0921\u0930 \u0907\u0924\u093f\u0939\u093e\u0938, \u0914\u0930 \u0921\u093f\u0935\u093e\u0907\u0938 \u092a\u0939\u091a\u093e\u0928\u0915\u0930\u094d\u0924\u093e \u090f\u0915\u0924\u094d\u0930 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0921\u0947\u091f\u093e \u0926\u0947\u0936 A \u0915\u0947 \u0921\u0947\u091f\u093e \u0915\u0947\u0902\u0926\u094d\u0930\u094b\u0902 \u092e\u0947\u0902 \u0938\u0902\u0917\u094d\u0930\u0939\u0940\u0924 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964"
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Data Retention and Deletion",
+                "content": "\u0906\u092a \u0938\u092e\u0930\u094d\u0925\u0928 \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0915\u0947 \u0905\u092a\u0928\u0947 \u0921\u0947\u091f\u093e \u0915\u0940 \u092a\u094d\u0930\u0924\u093f\u0932\u093f\u092a\u093f \u092f\u093e \u0939\u091f\u093e\u0928\u0947 \u0915\u093e \u0905\u0928\u0941\u0930\u094b\u0927 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0916\u093e\u0924\u093e \u092c\u0902\u0926 \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0921\u0947\u091f\u093e \u092a\u094d\u0930\u0924\u093f\u0927\u093e\u0930\u0923 90 \u0926\u093f\u0928 \u0939\u0948\u0964"
+            }
+        ]
+    },
+    {
+        "content_id": "a_faq_account_en",
+        "country": "A",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "How do I close my account?",
+        "updated_at": "2025-10-02T12:00:00Z",
+        "body": "You can close your account by contacting support at any time. Before closure, any pending orders must be delivered or cancelled, and any outstanding balance must be paid in full. Once closure is processed your data is retained for 90 days, then anonymized.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Account Closure Process",
+                "content": "You can close your account by contacting support at any time."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Conditions Before Closure",
+                "content": "Before closure, any pending orders must be delivered or cancelled, and any outstanding balance must be paid in full."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Data Retention After Closure",
+                "content": "Once closure is processed your data is retained for 90 days, then anonymized."
+            }
+        ]
+    },
+    {
+        "content_id": "a_faq_account_hi",
+        "country": "A",
+        "language": "hi",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "\u092e\u0948\u0902 \u0905\u092a\u0928\u093e \u0916\u093e\u0924\u093e \u0915\u0948\u0938\u0947 \u092c\u0902\u0926 \u0915\u0930\u0942\u0902?",
+        "updated_at": "2025-10-02T12:00:00Z",
+        "body": "\u0906\u092a \u0915\u093f\u0938\u0940 \u092d\u0940 \u0938\u092e\u092f \u0938\u092e\u0930\u094d\u0925\u0928 \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0915\u0947 \u0905\u092a\u0928\u093e \u0916\u093e\u0924\u093e \u092c\u0902\u0926 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u092c\u0902\u0926 \u0915\u0930\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947, \u0915\u093f\u0938\u0940 \u092d\u0940 \u0932\u0902\u092c\u093f\u0924 \u0911\u0930\u094d\u0921\u0930 \u0915\u094b \u0935\u093f\u0924\u0930\u093f\u0924 \u092f\u093e \u0930\u0926\u094d\u0926 \u0915\u093f\u092f\u093e \u091c\u093e\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0914\u0930 \u0915\u093f\u0938\u0940 \u092d\u0940 \u092c\u0915\u093e\u092f\u093e \u0930\u093e\u0936\u093f \u0915\u093e \u092d\u0941\u0917\u0924\u093e\u0928 \u092a\u0942\u0930\u093e \u0915\u093f\u092f\u093e \u091c\u093e\u0928\u093e \u091a\u093e\u0939\u093f\u090f\u0964",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Cancellation Process",
+                "content": "\u0906\u092a \u0915\u093f\u0938\u0940 \u092d\u0940 \u0938\u092e\u092f \u0938\u092e\u0930\u094d\u0925\u0928 \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0915\u0947 \u0905\u092a\u0928\u093e \u0916\u093e\u0924\u093e \u092c\u0902\u0926 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964"
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Pre-Cancellation Requirements",
+                "content": "\u092c\u0902\u0926 \u0915\u0930\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947, \u0915\u093f\u0938\u0940 \u092d\u0940 \u0932\u0902\u092c\u093f\u0924 \u0911\u0930\u094d\u0921\u0930 \u0915\u094b \u0935\u093f\u0924\u0930\u093f\u0924 \u092f\u093e \u0930\u0926\u094d\u0926 \u0915\u093f\u092f\u093e \u091c\u093e\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0914\u0930 \u0915\u093f\u0938\u0940 \u092d\u0940 \u092c\u0915\u093e\u092f\u093e \u0930\u093e\u0936\u093f \u0915\u093e \u092d\u0941\u0917\u0924\u093e\u0928 \u092a\u0942\u0930\u093e \u0915\u093f\u092f\u093e \u091c\u093e\u0928\u093e \u091a\u093e\u0939\u093f\u090f\u0964"
+            }
+        ]
+    },
+    {
+        "content_id": "a_faq_returns_en",
+        "country": "A",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What is your return policy?",
+        "updated_at": "2025-09-10T00:00:00Z",
+        "body": "Returns are accepted within 48 hours of delivery for defective or incorrect items. Perishable goods cannot be returned once accepted and signed for. To initiate a return, contact support with your order number and photos of the defect.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return Policy Overview",
+                "content": "Returns are accepted within 48 hours of delivery for defective or incorrect items. Perishable goods cannot be returned once accepted and signed for."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Initiation Steps",
+                "content": "To initiate a return, contact support with your order number and photos of the defect."
+            }
+        ]
+    },
+    {
+        "content_id": "a_faq_returns_hi",
+        "country": "A",
+        "language": "hi",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "\u0906\u092a\u0915\u0940 \u0935\u093e\u092a\u0938\u0940 \u0928\u0940\u0924\u093f \u0915\u094d\u092f\u093e \u0939\u0948?",
+        "updated_at": "2025-09-10T00:00:00Z",
+        "body": "\u0926\u094b\u0937\u092a\u0942\u0930\u094d\u0923 \u092f\u093e \u0917\u0932\u0924 \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 48 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 \u0930\u093f\u091f\u0930\u094d\u0928 \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u093f\u090f \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964 \u0916\u0930\u093e\u092c \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0940 \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u094b \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u0930\u0928\u0947 \u0914\u0930 \u0939\u0938\u094d\u0924\u093e\u0915\u094d\u0937\u0930 \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0935\u093e\u092a\u0938 \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e\u0964",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return Policy for Defective Goods",
+                "content": "\u0926\u094b\u0937\u092a\u0942\u0930\u094d\u0923 \u092f\u093e \u0917\u0932\u0924 \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 48 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 \u0930\u093f\u091f\u0930\u094d\u0928 \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u093f\u090f \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964"
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Restrictions on Return for Bad Goods",
+                "content": "\u0916\u0930\u093e\u092c \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0940 \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u094b \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u0930\u0928\u0947 \u0914\u0930 \u0939\u0938\u094d\u0924\u093e\u0915\u094d\u0937\u0930 \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0935\u093e\u092a\u0938 \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e\u0964"
+            }
+        ]
+    },
+    {
+        "content_id": "a_faq_delivery_en",
+        "country": "A",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "When will my order be delivered?",
+        "updated_at": "2025-09-01T00:00:00Z",
+        "body": "Orders placed before 2 PM Monday through Friday are delivered the next business day. Orders placed after 2 PM or on Saturday are delivered within 2 business days. Deliveries do not happen on Sundays or public holidays.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Order Delivery Times",
+                "content": "Orders placed before 2 PM Monday through Friday are delivered the next business day. Orders placed after 2 PM or on Saturday are delivered within 2 business days."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Delivery Days",
+                "content": "Deliveries do not happen on Sundays or public holidays."
+            }
+        ]
+    },
+    {
+        "content_id": "a_faq_payment_en",
+        "country": "A",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What payment methods do you accept?",
+        "updated_at": "2025-09-01T00:00:00Z",
+        "body": "We accept cash on delivery, UPI, and pre-authorized bank transfer. Credit card payments are not currently supported in Country A. Invoices can be settled within 7 days of delivery for approved customers.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Payment Methods and Exception",
+                "content": "We accept cash on delivery, UPI, and pre-authorized bank transfer. Credit card payments are not currently supported in Country A."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Invoice Settlement Policy",
+                "content": "Invoices can be settled within 7 days of delivery for approved customers."
+            }
+        ]
+    },
+    {
+        "content_id": "a_banner_diwali_en",
+        "country": "A",
+        "language": "en",
+        "type": "BANNER",
+        "version": 1.0,
+        "title": "Festival Offer",
+        "updated_at": "2025-10-10T00:00:00Z",
+        "body": "Get 15 percent off bulk orders during the festival season. Offer valid Monday through Saturday through the end of the month. Minimum order value 5000. Applicable on first order of the month only.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Main Offer",
+                "content": "Get 15 percent off bulk orders during the festival season."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Terms and Conditions",
+                "content": "Offer valid Monday through Saturday through the end of the month. Minimum order value 5000. Applicable on first order of the month only."
+            }
+        ]
+    },
+    {
+        "content_id": "a_banner_diwali_hi",
+        "country": "A",
+        "language": "hi",
+        "type": "BANNER",
+        "version": 1.0,
+        "title": "\u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u0915\u0940 \u092a\u0947\u0936\u0915\u0936",
+        "updated_at": "2025-10-10T00:00:00Z",
+        "body": "\u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u0915\u0947 \u092e\u094c\u0938\u092e \u092e\u0947\u0902 \u0925\u094b\u0915 \u0906\u0926\u0947\u0936\u094b\u0902 \u092a\u0930 15 \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0915\u0940 \u091b\u0942\u091f \u092a\u093e\u090f\u0902\u0964 \u092a\u094d\u0930\u0938\u094d\u0924\u093e\u0935 \u092e\u0939\u0940\u0928\u0947 \u0915\u0947 \u0905\u0902\u0924 \u0924\u0915 \u0938\u094b\u092e\u0935\u093e\u0930 \u0938\u0947 \u0936\u0928\u093f\u0935\u093e\u0930 \u0924\u0915 \u0935\u0948\u0927\u0964 \u0928\u094d\u092f\u0942\u0928\u0924\u092e \u0911\u0930\u094d\u0921\u0930 \u092e\u0942\u0932\u094d\u092f 5000\u0964",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Discount Offer and Validity Period",
+                "content": "\u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u0915\u0947 \u092e\u094c\u0938\u092e \u092e\u0947\u0902 \u0925\u094b\u0915 \u0906\u0926\u0947\u0936\u094b\u0902 \u092a\u0930 15 \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0915\u0940 \u091b\u0942\u091f \u092a\u093e\u090f\u0902\u0964 \u092a\u094d\u0930\u0938\u094d\u0924\u093e\u0935 \u092e\u0939\u0940\u0928\u0947 \u0915\u0947 \u0905\u0902\u0924 \u0924\u0915 \u0938\u094b\u092e\u0935\u093e\u0930 \u0938\u0947 \u0936\u0928\u093f\u0935\u093e\u0930 \u0924\u0915 \u0935\u0948\u0927\u0964"
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Minimum Order Value Requirement",
+                "content": "\u0928\u094d\u092f\u0942\u0928\u0924\u092e \u0911\u0930\u094d\u0921\u0930 \u092e\u0942\u0932\u094d\u092f 5000\u0964"
+            }
+        ]
+    },
+    {
+        "content_id": "b_tc_en_v3",
+        "country": "B",
+        "language": "en",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 3.0,
+        "title": "Terms of Service",
+        "updated_at": "2025-10-05T09:00:00Z",
+        "body": "By using the platform in Country B you accept these terms. Eligible customers are registered businesses with a valid tax ID. Orders can be placed 24 hours a day but are processed and dispatched only during business hours Monday through Friday. Payment is due at the time of order and may be made by credit card, debit card, or bank transfer. Returns are accepted within 7 days of delivery for any reason, and within 30 days for defective items. Account closure requires settling all balances; pending orders do not block closure and will be refunded.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Terms and Eligibility",
+                "content": "By using the platform in Country B you accept these terms. Eligible customers are registered businesses with a valid tax ID."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Order Processing Constraints",
+                "content": "Orders can be placed 24 hours a day but are processed and dispatched only during business hours Monday through Friday."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Payment Methods",
+                "content": "Payment is due at the time of order and may be made by credit card, debit card, or bank transfer."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Return Policies",
+                "content": "Returns are accepted within 7 days of delivery for any reason, and within 30 days for defective items."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Account Closure",
+                "content": "Account closure requires settling all balances; pending orders do not block closure and will be refunded."
+            }
+        ]
+    },
+    {
+        "content_id": "b_tc_es_v3",
+        "country": "B",
+        "language": "es",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 3.0,
+        "title": "T\u00e9rminos del Servicio",
+        "updated_at": "2025-10-05T09:00:00Z",
+        "body": "Al usar la plataforma en el pa\u00eds B usted acepta estos t\u00e9rminos. Los clientes elegibles son empresas registradas con un identificador fiscal v\u00e1lido. Los pedidos se pueden realizar las 24 horas del d\u00eda pero se procesan y despachan solo durante horario comercial de lunes a viernes. El pago vence al momento del pedido y se puede realizar con tarjeta de cr\u00e9dito, tarjeta de d\u00e9bito, o transferencia bancaria. Se aceptan devoluciones dentro de los 7 d\u00edas posteriores a la entrega por cualquier raz\u00f3n, y dentro de los 30 d\u00edas para art\u00edculos defectuosos. El cierre de cuenta requiere liquidar todos los saldos; los pedidos pendientes no bloquean el cierre y ser\u00e1n reembolsados.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Terms and Conditions Acceptance",
+                "content": "Al usar la plataforma en el pa\u00eds B usted acepta estos t\u00e9rminos."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Eligible Customers",
+                "content": "Los clientes elegibles son empresas registradas con un identificador fiscal v\u00e1lido."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Order Hours and Processing",
+                "content": "Los pedidos se pueden realizar las 24 horas del d\u00eda pero se procesan y despachan solo durante horario comercial de lunes a viernes."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Payment Methods",
+                "content": "El pago vence al momento del pedido y se puede realizar con tarjeta de cr\u00e9dito, tarjeta de d\u00e9bito, o transferencia bancaria."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Return Policies",
+                "content": "Se aceptan devoluciones dentro de los 7 d\u00edas posteriores a la entrega por cualquier raz\u00f3n, y dentro de los 30 d\u00edas para art\u00edculos defectuosos."
+            },
+            {
+                "chunk_id": 6,
+                "sub_title": "Account Closure and Pending Orders",
+                "content": "El cierre de cuenta requiere liquidar todos los saldos; los pedidos pendientes no bloquean el cierre y ser\u00e1n reembolsados."
+            }
+        ]
+    },
+    {
+        "content_id": "b_pp_en_v2",
+        "country": "B",
+        "language": "en",
+        "type": "PRIVACY_POLICY",
+        "version": 2.0,
+        "title": "Privacy Policy",
+        "updated_at": "2025-09-20T00:00:00Z",
+        "body": "We collect business name, tax ID, contact information, order history, payment method metadata (but not card numbers), and device identifiers. Data is stored in Country B and complies with local data protection law. You have the right to access, correct, and delete your data. Data retention after account closure is 180 days. Consent to marketing communications is optional and can be withdrawn at any time.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection Details",
+                "content": "We collect business name, tax ID, contact information, order history, payment method metadata (but not card numbers), and device identifiers. Data is stored in Country B and complies with local data protection law."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "User Rights and Retention",
+                "content": "You have the right to access, correct, and delete your data. Data retention after account closure is 180 days. Consent to marketing communications is optional and can be withdrawn at any time."
+            }
+        ]
+    },
+    {
+        "content_id": "b_pp_es_v2",
+        "country": "B",
+        "language": "es",
+        "type": "PRIVACY_POLICY",
+        "version": 2.0,
+        "title": "Pol\u00edtica de Privacidad",
+        "updated_at": "2025-09-20T00:00:00Z",
+        "body": "Recopilamos nombre comercial, identificador fiscal, informaci\u00f3n de contacto, historial de pedidos, metadatos del m\u00e9todo de pago (no los n\u00fameros de tarjeta), y identificadores de dispositivo. Los datos se almacenan en el pa\u00eds B y cumplen con la ley local de protecci\u00f3n de datos. Usted tiene derecho a acceder, corregir y eliminar sus datos. La retenci\u00f3n de datos despu\u00e9s del cierre de la cuenta es de 180 d\u00edas. El consentimiento para comunicaciones de marketing es opcional y puede retirarse en cualquier momento.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection Details",
+                "content": "Recopilamos nombre comercial, identificador fiscal, informaci\u00f3n de contacto, historial de pedidos, metadatos del m\u00e9todo de pago (no los n\u00fameros de tarjeta), y identificadores de dispositivo."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Data Storage and Compliance",
+                "content": "Los datos se almacenan en el pa\u00eds B y cumplen con la ley local de protecci\u00f3n de datos."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "User Rights",
+                "content": "Usted tiene derecho a acceder, corregir y eliminar sus datos."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Data Retention Period",
+                "content": "La retenci\u00f3n de datos despu\u00e9s del cierre de la cuenta es de 180 d\u00edas."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Marketing Consent",
+                "content": "El consentimiento para comunicaciones de marketing es opcional y puede retirarse en cualquier momento."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_account_en",
+        "country": "B",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "How do I close my account?",
+        "updated_at": "2025-10-10T00:00:00Z",
+        "body": "You can request account closure at any time from your profile settings or by contacting support. Any outstanding balance must be settled. Pending orders will be cancelled and refunded automatically. Data is retained for 180 days after closure in accordance with local law.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Account Closure Request",
+                "content": "You can request account closure at any time from your profile settings or by contacting support."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Balance Settlement",
+                "content": "Any outstanding balance must be settled."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Order Cancellation and Refund",
+                "content": "Pending orders will be cancelled and refunded automatically."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Data Retention Policy",
+                "content": "Data is retained for 180 days after closure in accordance with local law."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_account_es",
+        "country": "B",
+        "language": "es",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "\u00bfC\u00f3mo cierro mi cuenta?",
+        "updated_at": "2025-10-10T00:00:00Z",
+        "body": "Puede solicitar el cierre de cuenta en cualquier momento desde la configuraci\u00f3n de su perfil o contactando al soporte. Cualquier saldo pendiente debe ser liquidado. Los pedidos pendientes ser\u00e1n cancelados y reembolsados autom\u00e1ticamente. Los datos se retienen por 180 d\u00edas despu\u00e9s del cierre de conformidad con la ley local.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Account Closure and Related Processes",
+                "content": "Puede solicitar el cierre de cuenta en cualquier momento desde la configuraci\u00f3n de su perfil o contactando al soporte. Cualquier saldo pendiente debe ser liquidado. Los pedidos pendientes ser\u00e1n cancelados y reembolsados autom\u00e1ticamente."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Data Retention Policy",
+                "content": "Los datos se retienen por 180 d\u00edas despu\u00e9s del cierre de conformidad con la ley local."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_returns_en",
+        "country": "B",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What is your return policy?",
+        "updated_at": "2025-10-01T00:00:00Z",
+        "body": "You may return any item within 7 days of delivery for a full refund, no questions asked. Defective items may be returned within 30 days. Returns are initiated from your order history page or by contacting support. Refunds are issued to the original payment method within 5 business days of receipt.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return Policy Details",
+                "content": "You may return any item within 7 days of delivery for a full refund, no questions asked. Defective items may be returned within 30 days."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Initiating Returns",
+                "content": "Returns are initiated from your order history page or by contacting support."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Refund Processing",
+                "content": "Refunds are issued to the original payment method within 5 business days of receipt."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_returns_es",
+        "country": "B",
+        "language": "es",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "\u00bfCu\u00e1l es su pol\u00edtica de devoluciones?",
+        "updated_at": "2025-10-01T00:00:00Z",
+        "body": "Puede devolver cualquier art\u00edculo dentro de los 7 d\u00edas posteriores a la entrega para un reembolso completo, sin preguntas. Los art\u00edculos defectuosos pueden devolverse dentro de los 30 d\u00edas. Las devoluciones se inician desde la p\u00e1gina de historial de pedidos o contactando al soporte. Los reembolsos se emiten al m\u00e9todo de pago original dentro de los 5 d\u00edas h\u00e1biles posteriores a la recepci\u00f3n.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return periods for items",
+                "content": "Puede devolver cualquier art\u00edculo dentro de los 7 d\u00edas posteriores a la entrega para un reembolso completo, sin preguntas. Los art\u00edculos defectuosos pueden devolverse dentro de los 30 d\u00edas."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Initiating returns",
+                "content": "Las devoluciones se inician desde la p\u00e1gina de historial de pedidos o contactando al soporte."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Refund timing",
+                "content": "Los reembolsos se emiten al m\u00e9todo de pago original dentro de los 5 d\u00edas h\u00e1biles posteriores a la recepci\u00f3n."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_delivery_en",
+        "country": "B",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "When will my order be delivered?",
+        "updated_at": "2025-09-25T00:00:00Z",
+        "body": "Standard delivery is 2 to 3 business days from order confirmation. Express delivery, when available at checkout, is 1 business day for an additional fee. Deliveries are made Monday through Friday between 9 AM and 6 PM. Saturday delivery is available in select metropolitan areas for an additional fee.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Delivery Options",
+                "content": "Standard delivery is 2 to 3 business days from order confirmation. Express delivery, when available at checkout, is 1 business day for an additional fee."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Delivery Schedule",
+                "content": "Deliveries are made Monday through Friday between 9 AM and 6 PM. Saturday delivery is available in select metropolitan areas for an additional fee."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_delivery_es",
+        "country": "B",
+        "language": "es",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "\u00bfCu\u00e1ndo se entregar\u00e1 mi pedido?",
+        "updated_at": "2025-09-25T00:00:00Z",
+        "body": "La entrega est\u00e1ndar es de 2 a 3 d\u00edas h\u00e1biles desde la confirmaci\u00f3n del pedido. La entrega expr\u00e9s, cuando est\u00e1 disponible al finalizar la compra, es de 1 d\u00eda h\u00e1bil por una tarifa adicional. Las entregas se realizan de lunes a viernes de 9 AM a 6 PM. La entrega los s\u00e1bados est\u00e1 disponible en \u00e1reas metropolitanas seleccionadas por una tarifa adicional.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Standard Delivery Time",
+                "content": "La entrega est\u00e1ndar es de 2 a 3 d\u00edas h\u00e1biles desde la confirmaci\u00f3n del pedido."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Express Delivery Details",
+                "content": "La entrega expr\u00e9s, cuando est\u00e1 disponible al finalizar la compra, es de 1 d\u00eda h\u00e1bil por una tarifa adicional."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Delivery Days and Hours",
+                "content": "Las entregas se realizan de lunes a viernes de 9 AM a 6 PM."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Saturday Delivery with Extra Charges",
+                "content": "La entrega los s\u00e1bados est\u00e1 disponible en \u00e1reas metropolitanas seleccionadas por una tarifa adicional."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_payment_en",
+        "country": "B",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What payment methods do you accept?",
+        "updated_at": "2025-09-15T00:00:00Z",
+        "body": "We accept all major credit and debit cards, bank transfer, and approved net-30 terms for qualified business customers. Cash on delivery is not available in Country B. Invoices are issued on request and can be paid within the terms agreed at account setup.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Payment Methods and Terms",
+                "content": "We accept all major credit and debit cards, bank transfer, and approved net-30 terms for qualified business customers. Invoices are issued on request and can be paid within the terms agreed at account setup."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Cash on Delivery Availability",
+                "content": "Cash on delivery is not available in Country B."
+            }
+        ]
+    },
+    {
+        "content_id": "b_faq_payment_es",
+        "country": "B",
+        "language": "es",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "\u00bfQu\u00e9 m\u00e9todos de pago aceptan?",
+        "updated_at": "2025-09-15T00:00:00Z",
+        "body": "Aceptamos todas las tarjetas de cr\u00e9dito y d\u00e9bito principales, transferencia bancaria, y t\u00e9rminos aprobados a 30 d\u00edas para clientes comerciales calificados. El pago contra entrega no est\u00e1 disponible en el pa\u00eds B. Las facturas se emiten a solicitud y pueden pagarse dentro de los t\u00e9rminos acordados al configurar la cuenta.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Payment Methods and Terms",
+                "content": "Aceptamos todas las tarjetas de cr\u00e9dito y d\u00e9bito principales, transferencia bancaria, y t\u00e9rminos aprobados a 30 d\u00edas para clientes comerciales calificados."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Delivery Payment Restrictions",
+                "content": "El pago contra entrega no est\u00e1 disponible en el pa\u00eds B."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Invoice and Payment Terms",
+                "content": "Las facturas se emiten a solicitud y pueden pagarse dentro de los t\u00e9rminos acordados al configurar la cuenta."
+            }
+        ]
+    },
+    {
+        "content_id": "b_banner_promo_en",
+        "country": "B",
+        "language": "en",
+        "type": "BANNER",
+        "version": 1.0,
+        "title": "New Customer Offer",
+        "updated_at": "2025-10-12T00:00:00Z",
+        "body": "First-time customers get 10 percent off their first order over 1000. Use code WELCOME10 at checkout. Offer cannot be combined with other promotions and is valid through the end of the quarter.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Offer details",
+                "content": "First-time customers get 10 percent off their first order over 1000. Use code WELCOME10 at checkout."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Offer conditions",
+                "content": "Offer cannot be combined with other promotions and is valid through the end of the quarter."
+            }
+        ]
+    },
+    {
+        "content_id": "b_banner_promo_es",
+        "country": "B",
+        "language": "es",
+        "type": "BANNER",
+        "version": 1.0,
+        "title": "Oferta para Nuevos Clientes",
+        "updated_at": "2025-10-12T00:00:00Z",
+        "body": "Los nuevos clientes obtienen 10 por ciento de descuento en su primer pedido superior a 1000. Use el c\u00f3digo WELCOME10 al finalizar la compra. La oferta no se puede combinar con otras promociones y es v\u00e1lida hasta el final del trimestre.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Discount for New Customers",
+                "content": "Los nuevos clientes obtienen 10 por ciento de descuento en su primer pedido superior a 1000."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Promotion Code Instruction",
+                "content": "Use el c\u00f3digo WELCOME10 al finalizar la compra."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Offer Validity Conditions",
+                "content": "La oferta no se puede combinar con otras promociones y es v\u00e1lida hasta el final del trimestre."
+            }
+        ]
+    },
+    {
+        "content_id": "c_tc_en_v1",
+        "country": "C",
+        "language": "en",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 1.0,
+        "title": "Terms of Service",
+        "updated_at": "2025-07-15T00:00:00Z",
+        "body": "These terms govern your use of the platform in Country C. You must be a legally registered business entity to open an account. Orders are confirmed by email and dispatched Monday through Friday. Payment options include credit card and invoice; invoices are due on net-30 terms. Returns are accepted within 14 days of delivery for any reason. Account closure is self-service and takes effect immediately, with data retention of 365 days for tax and audit purposes.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Terms and Account Registration",
+                "content": "These terms govern your use of the platform in Country C. You must be a legally registered business entity to open an account."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Order Processing Details",
+                "content": "Orders are confirmed by email and dispatched Monday through Friday."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Payment Options and Invoices",
+                "content": "Payment options include credit card and invoice; invoices are due on net-30 terms."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Return Policy",
+                "content": "Returns are accepted within 14 days of delivery for any reason."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Account Closure Details",
+                "content": "Account closure is self-service and takes effect immediately, with data retention of 365 days for tax and audit purposes."
+            }
+        ]
+    },
+    {
+        "content_id": "c_tc_fr_v1",
+        "country": "C",
+        "language": "fr_CA",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 1.0,
+        "title": "Conditions du Service",
+        "updated_at": "2025-07-15T00:00:00Z",
+        "body": "Ces conditions r\u00e9gissent votre utilisation de la plateforme dans le pays C. Vous devez \u00eatre une entit\u00e9 commerciale l\u00e9galement enregistr\u00e9e pour ouvrir un compte. Les commandes sont confirm\u00e9es par courriel et exp\u00e9di\u00e9es du lundi au vendredi. Les options de paiement incluent carte de cr\u00e9dit et facture; les factures sont dues \u00e0 30 jours nets. Les retours sont accept\u00e9s dans les 14 jours suivant la livraison pour toute raison. La fermeture de compte est en libre-service et prend effet imm\u00e9diatement, avec une conservation des donn\u00e9es de 365 jours \u00e0 des fins fiscales et d'audit.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Conditions g\u00e9n\u00e9rales de l'utilisation",
+                "content": "Ces conditions r\u00e9gissent votre utilisation de la plateforme dans le pays C. Vous devez \u00eatre une entit\u00e9 commerciale l\u00e9galement enregistr\u00e9e pour ouvrir un compte."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Conditions d'ouverture d'un compte",
+                "content": "Les commandes sont confirm\u00e9es par courriel et exp\u00e9di\u00e9es du lundi au vendredi."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Options de paiement et d\u00e9lais",
+                "content": "Les options de paiement incluent carte de cr\u00e9dit et facture; les factures sont dues \u00e0 30 jours nets."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Politique des retours",
+                "content": "Les retours sont accept\u00e9s dans les 14 jours suivant la livraison pour toute raison."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Fermeture de compte et conservation des donn\u00e9es",
+                "content": "La fermeture de compte est en libre-service et prend effet imm\u00e9diatement, avec une conservation des donn\u00e9es de 365 jours \u00e0 des fins fiscales et d'audit."
+            }
+        ]
+    },
+    {
+        "content_id": "c_pp_en_v1",
+        "country": "C",
+        "language": "en",
+        "type": "PRIVACY_POLICY",
+        "version": 1.0,
+        "title": "Privacy Policy",
+        "updated_at": "2025-07-15T00:00:00Z",
+        "body": "We collect business information, contact details, transaction history, and usage analytics. Data is stored in Country C and processed in compliance with provincial and federal privacy law. You have the right to access and correct your information at any time. Data retention is 365 days after account closure, after which personal data is deleted except where legally required to be kept longer.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection Overview",
+                "content": "We collect business information, contact details, transaction history, and usage analytics."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Data Storage and Processing Compliance",
+                "content": "Data is stored in Country C and processed in compliance with provincial and federal privacy law."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "User Rights and Information Access",
+                "content": "You have the right to access and correct your information at any time."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Data Retention Policy",
+                "content": "Data retention is 365 days after account closure, after which personal data is deleted except where legally required to be kept longer."
+            }
+        ]
+    },
+    {
+        "content_id": "c_pp_fr_v1",
+        "country": "C",
+        "language": "fr_CA",
+        "type": "PRIVACY_POLICY",
+        "version": 1.0,
+        "title": "Politique de Confidentialit\u00e9",
+        "updated_at": "2025-07-15T00:00:00Z",
+        "body": "Nous recueillons les informations d'entreprise, les coordonn\u00e9es, l'historique des transactions et les analyses d'utilisation. Les donn\u00e9es sont stock\u00e9es dans le pays C et trait\u00e9es conform\u00e9ment aux lois provinciales et f\u00e9d\u00e9rales sur la vie priv\u00e9e. Vous avez le droit d'acc\u00e9der et de corriger vos informations \u00e0 tout moment. La conservation des donn\u00e9es est de 365 jours apr\u00e8s la fermeture du compte.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection and Processing",
+                "content": "Nous recueillons les informations d'entreprise, les coordonn\u00e9es, l'historique des transactions et les analyses d'utilisation. Les donn\u00e9es sont stock\u00e9es dans le pays C et trait\u00e9es conform\u00e9ment aux lois provinciales et f\u00e9d\u00e9rales sur la vie priv\u00e9e."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "User Rights and Data Retention",
+                "content": "Vous avez le droit d'acc\u00e9der et de corriger vos informations \u00e0 tout moment. La conservation des donn\u00e9es est de 365 jours apr\u00e8s la fermeture du compte."
+            }
+        ]
+    },
+    {
+        "content_id": "c_faq_account_en",
+        "country": "C",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "How do I close my account?",
+        "updated_at": "2025-08-20T00:00:00Z",
+        "body": "In Country C you can close your account directly from account settings. Closure takes effect immediately. Any unpaid invoices must be settled within 30 days of closure. Data is retained for 365 days for tax and audit purposes and then deleted.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Account Closure Process",
+                "content": "In Country C you can close your account directly from account settings. Closure takes effect immediately."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Unpaid Invoices",
+                "content": "Any unpaid invoices must be settled within 30 days of closure."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Data Retention Policy",
+                "content": "Data is retained for 365 days for tax and audit purposes and then deleted."
+            }
+        ]
+    },
+    {
+        "content_id": "c_faq_account_fr",
+        "country": "C",
+        "language": "fr_CA",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "Comment fermer mon compte?",
+        "updated_at": "2025-08-20T00:00:00Z",
+        "body": "Dans le pays C, vous pouvez fermer votre compte directement \u00e0 partir des param\u00e8tres du compte. La fermeture prend effet imm\u00e9diatement. Toute facture impay\u00e9e doit \u00eatre r\u00e9gl\u00e9e dans les 30 jours suivant la fermeture. Les donn\u00e9es sont conserv\u00e9es pendant 365 jours \u00e0 des fins fiscales et d'audit puis supprim\u00e9es.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Account Closure Process",
+                "content": "Dans le pays C, vous pouvez fermer votre compte directement \u00e0 partir des param\u00e8tres du compte. La fermeture prend effet imm\u00e9diatement."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Invoice Payment Requirements",
+                "content": "Toute facture impay\u00e9e doit \u00eatre r\u00e9gl\u00e9e dans les 30 jours suivant la fermeture."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Data Retention and Deletion",
+                "content": "Les donn\u00e9es sont conserv\u00e9es pendant 365 jours \u00e0 des fins fiscales et d'audit puis supprim\u00e9es."
+            }
+        ]
+    },
+    {
+        "content_id": "c_faq_returns_en",
+        "country": "C",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What is your return policy?",
+        "updated_at": "2025-08-01T00:00:00Z",
+        "body": "You may return any item within 14 days of delivery for a full refund. The item must be in its original condition and packaging. Defective items can be returned within 60 days. Refunds are processed within 10 business days of receipt of the returned item.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return Policy for 14-Day Refund",
+                "content": "You may return any item within 14 days of delivery for a full refund."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Item Condition Requirements",
+                "content": "The item must be in its original condition and packaging."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Defective Items Policy",
+                "content": "Defective items can be returned within 60 days."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Refund Processing Time",
+                "content": "Refunds are processed within 10 business days of receipt of the returned item."
+            }
+        ]
+    },
+    {
+        "content_id": "c_faq_returns_fr",
+        "country": "C",
+        "language": "fr_CA",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "Quelle est votre politique de retour?",
+        "updated_at": "2025-08-01T00:00:00Z",
+        "body": "Vous pouvez retourner tout article dans les 14 jours suivant la livraison pour un remboursement complet. L'article doit \u00eatre dans son \u00e9tat et emballage d'origine. Les articles d\u00e9fectueux peuvent \u00eatre retourn\u00e9s dans les 60 jours. Les remboursements sont trait\u00e9s dans les 10 jours ouvrables suivant la r\u00e9ception de l'article retourn\u00e9.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return Policy Overview",
+                "content": "Vous pouvez retourner tout article dans les 14 jours suivant la livraison pour un remboursement complet. L'article doit \u00eatre dans son \u00e9tat et emballage d'origine. Les articles d\u00e9fectueux peuvent \u00eatre retourn\u00e9s dans les 60 jours."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Refund Processing Time",
+                "content": "Les remboursements sont trait\u00e9s dans les 10 jours ouvrables suivant la r\u00e9ception de l'article retourn\u00e9."
+            }
+        ]
+    },
+    {
+        "content_id": "c_faq_delivery_en",
+        "country": "C",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "When will my order be delivered?",
+        "updated_at": "2025-08-15T00:00:00Z",
+        "body": "Standard delivery is 3 to 5 business days. Rural and remote addresses may take longer. Express delivery is available for an additional fee and takes 1 to 2 business days. We do not deliver on weekends or statutory holidays.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Delivery Time Information",
+                "content": "Standard delivery is 3 to 5 business days. Rural and remote addresses may take longer. Express delivery is available for an additional fee and takes 1 to 2 business days."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Delivery Day Restrictions",
+                "content": "We do not deliver on weekends or statutory holidays."
+            }
+        ]
+    },
+    {
+        "content_id": "c_faq_payment_en",
+        "country": "C",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What payment methods do you accept?",
+        "updated_at": "2025-08-15T00:00:00Z",
+        "body": "We accept credit card payments at checkout and offer net-30 invoicing for qualified business customers. To apply for net-30 terms, contact our billing team with your business registration and trade references.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Payment and Invoicing Options",
+                "content": "We accept credit card payments at checkout and offer net-30 invoicing for qualified business customers."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Application Process for Net-30 Terms",
+                "content": "To apply for net-30 terms, contact our billing team with your business registration and trade references."
+            }
+        ]
+    },
+    {
+        "content_id": "d_tc_en_v1",
+        "country": "D",
+        "language": "en",
+        "type": "TERMS_AND_CONDITIONS",
+        "version": 1.0,
+        "title": "Terms of Service",
+        "updated_at": "2025-06-01T00:00:00Z",
+        "body": "These terms apply to customers in Country D. You must be a registered business with a valid tax ID to use the platform. Orders are fulfilled within 1 business day. Payment is by credit card or invoice for approved accounts. Returns are accepted within 30 days of delivery in original condition. Account closure can be requested by email and takes effect within 5 business days.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Terms Apply to Country D Customers",
+                "content": "These terms apply to customers in Country D."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Registration Requirements",
+                "content": "You must be a registered business with a valid tax ID to use the platform."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Order Fulfillment Timeline",
+                "content": "Orders are fulfilled within 1 business day."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Payment Methods",
+                "content": "Payment is by credit card or invoice for approved accounts."
+            },
+            {
+                "chunk_id": 5,
+                "sub_title": "Return Policy",
+                "content": "Returns are accepted within 30 days of delivery in original condition."
+            },
+            {
+                "chunk_id": 6,
+                "sub_title": "Account Closure Process",
+                "content": "Account closure can be requested by email and takes effect within 5 business days."
+            }
+        ]
+    },
+    {
+        "content_id": "d_pp_en_v1",
+        "country": "D",
+        "language": "en",
+        "type": "PRIVACY_POLICY",
+        "version": 1.0,
+        "title": "Privacy Policy",
+        "updated_at": "2025-06-01T00:00:00Z",
+        "body": "We collect business information, contact details, order history, and usage data. We do not sell your data. Data retention is 2 years after account closure, in line with local tax and accounting requirements. You can request access to or deletion of your data at any time by contacting support.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Data Collection Policy",
+                "content": "We collect business information, contact details, order history, and usage data. We do not sell your data."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Data Retention and Access",
+                "content": "Data retention is 2 years after account closure, in line with local tax and accounting requirements. You can request access to or deletion of your data at any time by contacting support."
+            }
+        ]
+    },
+    {
+        "content_id": "d_faq_account_en",
+        "country": "D",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "How do I close my account?",
+        "updated_at": "2025-07-01T00:00:00Z",
+        "body": "Send a closure request to support by email. Closure takes effect within 5 business days. Any outstanding invoices must be paid before closure is finalized. Data is retained for 2 years for tax purposes and then deleted.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Closure Process and Timing",
+                "content": "Send a closure request to support by email. Closure takes effect within 5 business days."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Conditions for Closure",
+                "content": "Any outstanding invoices must be paid before closure is finalized. Data is retained for 2 years for tax purposes and then deleted."
+            }
+        ]
+    },
+    {
+        "content_id": "d_faq_returns_en",
+        "country": "D",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "What is your return policy?",
+        "updated_at": "2025-07-01T00:00:00Z",
+        "body": "Items may be returned within 30 days of delivery in their original condition and packaging. A return authorization is required; contact support to obtain one. Refunds are issued to the original payment method within 7 business days of our receipt of the returned item.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Return Policy Details",
+                "content": "Items may be returned within 30 days of delivery in their original condition and packaging."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Authorization and Contact",
+                "content": "A return authorization is required; contact support to obtain one."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Refund Processing",
+                "content": "Refunds are issued to the original payment method within 7 business days of our receipt of the returned item."
+            }
+        ]
+    },
+    {
+        "content_id": "d_faq_delivery_en",
+        "country": "D",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "When will my order be delivered?",
+        "updated_at": "2025-07-01T00:00:00Z",
+        "body": "Orders are fulfilled within 1 business day and delivered 2 to 4 business days later depending on your location. Same-day delivery is available in a limited set of cities for an additional fee.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Delivery Time and Methods",
+                "content": "Orders are fulfilled within 1 business day and delivered 2 to 4 business days later depending on your location."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Same-Day Delivery Availability",
+                "content": "Same-day delivery is available in a limited set of cities for an additional fee."
+            }
+        ]
+    },
+    {
+        "content_id": "d_faq_support_en",
+        "country": "D",
+        "language": "en",
+        "type": "FAQ",
+        "version": 1.0,
+        "title": "How do I contact customer support?",
+        "updated_at": "2025-07-01T00:00:00Z",
+        "body": "Our support team is available Monday through Friday 8 AM to 6 PM local time. You can reach us by email or through the chat widget on the app. For urgent order issues please use the phone line listed in your account settings.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Support Channels",
+                "content": "Our support team is available Monday through Friday 8 AM to 6 PM local time. You can reach us by email or through the chat widget on the app."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Urgent Order Issues",
+                "content": "For urgent order issues please use the phone line listed in your account settings."
+            }
+        ]
+    },
+    {
+        "content_id": "d_banner_launch_en",
+        "country": "D",
+        "language": "en",
+        "type": "BANNER",
+        "version": 1.0,
+        "title": "Now Serving Country D",
+        "updated_at": "2025-07-10T00:00:00Z",
+        "body": "We are now live in Country D. Sign up today and get free delivery on your first three orders. Offer valid for the first 90 days after account creation.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Live Status",
+                "content": "We are now live in Country D."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Promotion Details",
+                "content": "Sign up today and get free delivery on your first three orders. Offer valid for the first 90 days after account creation."
+            }
+        ]
+    },
+    {
+        "content_id": "d_static_about_en",
+        "country": "D",
+        "language": "en",
+        "type": "STATIC_PAGE",
+        "version": 1.0,
+        "title": "About the Platform",
+        "updated_at": "2025-06-15T00:00:00Z",
+        "body": "This platform connects registered business customers with suppliers for wholesale ordering. We operate in multiple countries with country-specific terms, pricing, and delivery networks. Each country has its own content, its own rules, and its own customer support team. Features and policies may differ from one country to another.",
+        "chunks": [
+            {
+                "chunk_id": 1,
+                "sub_title": "Platform Overview",
+                "content": "This platform connects registered business customers with suppliers for wholesale ordering."
+            },
+            {
+                "chunk_id": 2,
+                "sub_title": "Country-Specific Operations",
+                "content": "We operate in multiple countries with country-specific terms, pricing, and delivery networks."
+            },
+            {
+                "chunk_id": 3,
+                "sub_title": "Country-Specific Details",
+                "content": "Each country has its own content, its own rules, and its own customer support team."
+            },
+            {
+                "chunk_id": 4,
+                "sub_title": "Feature and Policy Differences",
+                "content": "Features and policies may differ from one country to another."
+            }
+        ]
+    }
+]
